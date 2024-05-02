@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Landing Page de Cadastro</title>
+    <link rel="stylesheet" href="styles.css" />
+    </head>
+  <body>   
+    <div class="background-overlay"></div>
+  
+    <div class="container">
+            <div class="card-body1">
+              <h1 class="text-center">Cadastre-se</h1>
+              <div class="card-body">
+              <form>
+                <div class="form-group1">
+                  <label for="name">Nome completo:</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="name"
+                    placeholder="Digite seu nome"
+                  />
+                </div><br/>
+                <div class="form-group2">
+                  <label for="email">E-mail:</label>
+                  <input
+                    type="email"
+                    class="form-control"
+                    id="email"
+                    placeholder="Digite seu melhor e-mail"
+                  />
+                </div><br/>
+                <div class="form-group3">
+                  <label for="password">Senha:</label>
+                  <input
+                    type="password"
+                    class="form-control"
+                    id="password"
+                    placeholder="Digite sua senha"
+                  />
+                </div><br/>
+                <button type="submit" class="btn btn-primary btn-block">
+                  Cadastrar
+                </button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+<style type="text/css">
+
+body {
+    background: url(1280x1024.jpg);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.snow-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: -1; /* Define o z-index para um valor negativo */
+}
+
+.snow {
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    animation: fallingSnow linear infinite;
+}
+
+@keyframes fallingSnow {
+    0% {
+        transform: translateY(-40px);
+    }
+    100% {
+        transform: translateY(100vh);
+    }
+}
+</style>
+</head>
+<body>
+<div class="snow-wrapper"></div>
+
+<script>
+const numSnowflakes = 30; // Número de flocos de neve
+
+for (let i = 0; i < numSnowflakes; i++) {
+    const snowflake = document.createElement('div');
+    snowflake.classList.add('snow');
+    snowflake.style.left = `${Math.random() * 100}%`;
+    snowflake.style.animationDuration = `${Math.random() * 10 + 2}s`; // Duração aleatória entre 2 e 12 segundos
+    document.querySelector('.snow-wrapper').appendChild(snowflake);
+}
+</script>
+
+  </body>
+</html>

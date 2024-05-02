@@ -1,0 +1,89 @@
+body {
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  overflow: hidden;
+}
+
+.background-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.5;
+  z-index: -1;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.card {
+  margin-top: 50px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 30px;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.form-control {
+  border: 1px solid #ced4da;
+  border-radius: 20px; /* Arredonda as bordas um pouco mais */
+  padding: 10px;
+  width: 100%;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  font-size: large;
+  font-weight: bold;
+  font-family: Arial, sans-serif;
+  border-radius: 20px; /* Borda arredondada */
+  padding: 12px 24px; /* Tamanho do botão */
+  display: block; /* Para centralizar */
+  margin: 0 auto; /* Para centralizar */
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  padding: 20px; /* Aumentei o padding para manter a largura proporcional */
+  max-width: 450px; /* Aumentei a largura da caixa */
+  background: linear-gradient(
+    to top,
+    rgba(107, 3, 148, 0.849),
+    rgba(4, 7, 177, 0.897)
+    
+  ); /* Fundo gradiente com opacidade de 40% */
+  border-radius: 20px; /* Arredonda as bordas */
+}
+.form-group1 {
+  font-weight: bold;
+}
+.form-group2 {
+  font-weight: bold;
+}
+.form-group3 {
+  font-weight: bold;
+}
