@@ -6,16 +6,13 @@
   </div>
     <div>
     <p align="center">
-<h3>
+<h4>
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> landing page </a> de cadastro feita com HTML, CSS e JavaScript.
     </div>
       
-  <p align="center">
-   Seja bem vindo (a) ao meu perfil 😉️
-  </p>
 
-  <h3 align="center">
+  <h4 align="center">
   Atualmente estudo sobre as tecnologias:
   
 </div>
@@ -30,7 +27,7 @@
 </div><br>
 
 <div align="center">
-  <h3 align="center">
+  <h4 align="center">
   Aqui estão alguns dos meus perfis sociais e meios de contato:
     <br/><br/>
   <a href="https://www.instagram.com/juarezweslley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
