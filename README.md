@@ -5,8 +5,8 @@
     <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley </a> e este é meu pequeno projeto de iniciante 😊
   </div>
     <div>
-    <p align="center">
-<h4>
+    <p>
+<h3 align="center">
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> landing page </a> de cadastro feita com HTML, CSS e JavaScript.
     </div>
