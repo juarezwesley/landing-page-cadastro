@@ -3,10 +3,13 @@
   <h2 align="center">
     Olá! Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley e este é meu pequeno projeto de iniciante 😊</a>
+  </div>
+    <div>
     <p align="center">
 <h3>
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> de cadastro feita com HTML, CSS e JavaScript.
+    </div>
       
   <p align="center">
    Seja bem vindo (a) ao meu perfil 😉️
