@@ -4,7 +4,7 @@
     Olá! Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley e este é meu pequeno projeto de iniciante 😊</a>
     <p align="center">
-<h1>
+<h3>
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> de cadastro feita com HTML, CSS e JavaScript.
       
@@ -12,7 +12,7 @@
    Seja bem vindo (a) ao meu perfil 😉️
   </p>
 
-  <h1 align="center">
+  <h3 align="center">
   Atualmente estudo sobre as tecnologias:
   
 </div>
@@ -27,7 +27,7 @@
 </div><br>
 
 <div align="center">
-  <h2 align="center">
+  <h3 align="center">
   Aqui estão alguns dos meus perfis sociais e meios de contato:
   <a href="https://www.instagram.com/juarezweslley/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/juarez-wesley/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
