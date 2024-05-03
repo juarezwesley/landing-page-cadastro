@@ -8,7 +8,7 @@
     <p align="center">
 <h3>
   Se trata de uma 
-    <a href="https://juarezwesley.github.io/landing-page-cadastro/"> de cadastro feita com HTML, CSS e JavaScript.
+    <a href="https://juarezwesley.github.io/landing-page-cadastro/"> landing page </a> de cadastro feita com HTML, CSS e JavaScript.
     </div>
       
   <p align="center">
