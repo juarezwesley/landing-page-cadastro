@@ -2,7 +2,7 @@
   
   <h2 align="center">
     Olá! Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley e este é meu pequeno projeto de iniciante 😊</a>
+    <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley </a> e este é meu pequeno projeto de iniciante 😊
   </div>
     <div>
     <p align="center">
