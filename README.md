@@ -4,22 +4,15 @@
     Olá! Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/juarez-wesley/"> Juarez Wesley e este é meu pequeno projeto de iniciante 😊</a>
     <p align="center">
-<h2>
+<h1>
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> de cadastro feita com HTML, CSS e JavaScript.
-    </p>
-  </h2>
-  
-  <p align="center">
-    Sou estudante do curso superior de tecnologia de análise e desenvolvimento de sistemas pela Universidade Uniasselvi.
-     
-  </p>
-  
+      
   <p align="center">
    Seja bem vindo (a) ao meu perfil 😉️
   </p>
 
-  <h2 align="center">
+  <h1 align="center">
   Atualmente estudo sobre as tecnologias:
   
 </div>
