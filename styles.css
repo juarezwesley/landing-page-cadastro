@@ -20,6 +20,10 @@ body {
 
 .text-center {
   text-align: center;
+  height: 25px;
+  font-weight: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  color: #ffffff;
 }
 
 .card {
@@ -30,7 +34,7 @@ body {
 }
 
 .card-body {
-  padding: 30px;
+  padding: 25px;
 }
 
 .form-group {
@@ -38,19 +42,20 @@ body {
 }
 
 .form-control {
-  border: 1px solid #ced4da;
-  border-radius: 20px; /* Arredonda as bordas um pouco mais */
+  border: 5px solid #ced4da;
+  border-radius: 10px; /* Arredonda as bordas um pouco mais */
   padding: 10px;
-  width: 100%;
+  width: 93%;
 }
 
 .btn-primary {
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #2e15be;
+  border-color: #510683;
   font-size: large;
-  font-weight: bold;
+  color: #fff;
+  font-weight: Arial, sans-serif;
   font-family: Arial, sans-serif;
-  border-radius: 20px; /* Borda arredondada */
+  border-radius: 10px; /* Borda arredondada */
   padding: 12px 24px; /* Tamanho do botão */
   display: block; /* Para centralizar */
   margin: 0 auto; /* Para centralizar */
@@ -61,29 +66,74 @@ body {
   border-color: #0056b3;
 }
 
+body {
+  background: url(1280x1024.jpg);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+.snow-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1; /* Define o z-index para um valor negativo */
+}
+
 .container {
   position: fixed;
+  border-style: solid;
   top: 50%;
   left: 50%;
-  width: 400px;
+  width: 440px;
   transform: translate(-50%, -50%);
   z-index: 1;
-  padding: 20px; /* Aumentei o padding para manter a largura proporcional */
-  max-width: 450px; /* Aumentei a largura da caixa */
-  background: linear-gradient(
-    to top,
-    rgba(107, 3, 148, 0.849),
-    rgba(4, 7, 177, 0.897)
-    
-  ); /* Fundo gradiente com opacidade de 40% */
-  border-radius: 20px; /* Arredonda as bordas */
+  padding: 10px; /* Aumentei o padding para manter a largura proporcional */
+  background-color: #510683;
+  border-radius: 15px; /* Arredonda as bordas */
+  
 }
 .form-group1 {
-  font-weight: bold;
+  font-weight: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: large;
+  color: #ffffff;
 }
 .form-group2 {
-  font-weight: bold;
+  font-weight: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: large;
+  color: #ffffff;
 }
 .form-group3 {
-  font-weight: bold;
+  font-weight: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: large;
+  color: #ffffff;
+}
+.form-group4 {
+  font-weight: Arial, sans-serif;
+  font-family: Arial, sans-serif;
+  font-size: large;
+  color: #ffffff;
+}
+.snow {
+  width: 5px;
+  height: 5px;
+  background: #fff;
+  border-radius: 90%;
+  position: absolute;
+  animation: fallingSnow linear infinite;
+}
+
+@keyframes fallingSnow {
+  0% {
+      transform: translateY(-40px);
+  }
+  100% {
+      transform: translateY(100vh);
+  }
 }
