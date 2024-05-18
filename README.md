@@ -10,6 +10,7 @@
   Se trata de uma 
     <a href="https://juarezwesley.github.io/landing-page-cadastro/"> landing page </a> de cadastro feita com HTML, CSS e JavaScript.
     </div>
+    <p align="center">O uso da linguagem JavaScript foi usada para automatizar e tornar a neve aleatória (snowflakes).</p><br/>
       
 
   <h3 align="center">
