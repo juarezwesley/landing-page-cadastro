@@ -39,4 +39,12 @@
 </div><br>
 </div>    
 
-<p align="center"> PS. Recentemente fiz alguns ajustes neste projeto, alterando o layout, cores das letras e box, posição e tamanho dos elementos, acrescentei o campo "Celular" com tipo "tel", defini quantidade máxima de caracteres para os campos "Celular" e "Senha", adicionei uma borda preta na caixa para destaque, adicionei uma pequena borda nos campos de preenchimento pelo usuário, alterei os cantos que estavam muito arredondados, separei a função JavaScript que gera a neve onde estava junto com o arquivo HTML, e por fim alterei o tamanho das snowflakes para ficar algo mais natural e discreto.</p>
+<p align="center"> PS. Recentemente fiz alguns ajustes neste projeto, alterando o layout, cores das letras e box, posição e tamanho dos elementos, acrescentei o campo "Celular" com tipo "tel", defini quantidade máxima de caracteres para os campos "Celular" e "Senha", adicionei uma borda preta na caixa para destaque, adicionei uma pequena borda nos campos de preenchimento pelo usuário, alterei os cantos que estavam muito arredondados, separei a função JavaScript que gera a neve onde estava junto com o arquivo HTML, e por fim alterei o tamanho das snowflakes para ficar algo mais natural e discreto.</p><br>
+
+<h2 align="center">Sistemas operacionais:</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+<p align="center">(Linux Mint "Debia edition" & Windows 11 Pro)</p>
