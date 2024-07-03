@@ -47,4 +47,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-<p align="center">(Linux Mint "Cinnamon Edition" & Windows 11 Pro)</p>
+<p align="center">(Linux Ubuntu 24.04 LTS & Windows 11 Pro)</p>
